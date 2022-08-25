@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F45BCAA-E546-40AC-813D-EB597630CABD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLiTraSua</RootNamespace>
+    <AssemblyName>QuanLiTraSua</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassKhachHang.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="HoaDon.cs" />
+    <Compile Include="NhanVIen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVIen.Designer.cs">
+      <DependentUpon>NhanVIen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVienTRuyCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVienTRuyCap.Designer.cs">
+      <DependentUpon>NhanVienTRuyCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVien.cs" />
+    <Compile Include="QuanLyKhach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKhach.Designer.cs">
+      <DependentUpon>QuanLyKhach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyUser.Designer.cs">
+      <DependentUpon>QuanLyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="My_DB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaoHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoHD.Designer.cs">
+      <DependentUpon>TaoHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVIen.resx">
+      <DependentUpon>NhanVIen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVienTRuyCap.resx">
+      <DependentUpon>NhanVienTRuyCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuanLyKhach.resx">
+      <DependentUpon>QuanLyKhach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyUser.resx">
+      <DependentUpon>QuanLyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoHD.resx">
+      <DependentUpon>TaoHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\LOGO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconDelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconEmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconFacebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconHuy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconLoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconLuu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconPassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconPhone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconQuanLyKhachSan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconQuanLyNhanVien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconQuanLyPhong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconShow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconShowpassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconSuaaaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconThem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconTimKiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\iconWeb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\mau-quan-tra-sua-dep-1500x938.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\b1.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

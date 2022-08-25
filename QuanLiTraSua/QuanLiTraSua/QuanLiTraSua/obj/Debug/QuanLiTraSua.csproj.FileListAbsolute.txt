@@ -1,0 +1,123 @@
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+C:\Users\Thinkpad\source\repos\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csprojAssemblyReference.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.AssemblyReference.cache
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+C:\csdl\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csprojAssemblyReference.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+D:\HK1-2021-2022\Hệ QTCSDL\CK\QuanLiTraSua-update\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.AssemblyReference.cache
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyUser.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+C:\csdl\QuanLiTraSua-update1\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.AssemblyReference.cache
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyUser.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+C:\Users\Huy Vu\Downloads\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe.config
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.exe
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\bin\Debug\QuanLiTraSua.pdb
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.AssemblyReference.cache
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.SuggestedBindingRedirects.cache
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Home.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Login.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Menu.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVIen.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.NhanVienTRuyCap.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.Properties.Resources.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyKhach.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.QuanLyUser.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.TaoHD.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.ThongKe.resources
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.GenerateResource.cache
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.csproj.CoreCompileInputs.cache
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.exe
+C:\Download\winform\Nhóm 4\QuanLiTraSua\QuanLiTraSua\QuanLiTraSua\obj\Debug\QuanLiTraSua.pdb
