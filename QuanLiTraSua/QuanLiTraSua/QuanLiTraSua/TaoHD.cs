@@ -55,6 +55,7 @@ namespace QuanLiTraSua
             DVG.Columns[2].HeaderText = "Giá";
 
             textBoxSL.Text = "0";
+            Day.Value = DateTime.Now;
             reload();
           
         }

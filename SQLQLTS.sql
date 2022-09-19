@@ -85,9 +85,23 @@ INSERT INTO DangNhap (maNV,Pword,IDLoaiQuyen)
 VALUES ('admin', '123', 1);
 go
 INSERT INTO DangNhap (maNV,Pword,IDLoaiQuyen)
-VALUES ('NV01', '123', 1);
+VALUES ('NV01', '123', 2);
 go
-
+INSERT INTO KhachHang(IDkh,tenkh,Dchi,SDT)
+VALUES ('KH01', N'Lê Thị Trang',N'Vung Tau','0378873232');
+go
+INSERT INTO KhachHang(IDkh,tenkh,Dchi,SDT)
+VALUES ('KH02', N'Lê Hòa',N'Vung Tau','0378273732');
+go
+INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
+VALUES ('SP01', N'Cơm','30000');
+go
+INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
+VALUES ('SP02', N'Bún','35000');
+go
+INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
+VALUES ('SP03', N'Phở Hà Nội','40000');
+go
 Create function [dbo].[F_ThuNhapByNgay](@ngay Datetime)
 returns table
 as
