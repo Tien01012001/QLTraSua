@@ -94,13 +94,13 @@ INSERT INTO KhachHang(IDkh,tenkh,Dchi,SDT)
 VALUES ('KH02', N'Lê Hòa',N'Vung Tau','0378273732');
 go
 INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
-VALUES ('SP01', N'Cơm','30000');
+VALUES ('SP01', N'Trà sữa truyền thống','30000');
 go
 INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
-VALUES ('SP02', N'Bún','35000');
+VALUES ('SP02', N'Trà sữa bạc hà','35000');
 go
 INSERT INTO SanPham(IDsanpham,Tensp,Giatien)
-VALUES ('SP03', N'Phở Hà Nội','40000');
+VALUES ('SP03', N'Trà sữa khoai môn','40000');
 go
 Create function [dbo].[F_ThuNhapByNgay](@ngay Datetime)
 returns table
