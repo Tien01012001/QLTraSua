@@ -92,6 +92,7 @@ namespace QuanLiTraSua
                     || (txtGioiTinh.Text.Trim() == "")
                     || (txtMaCN.Text.Trim() == "")
                     || (txtSDT.Text.Trim() == "")
+                    || (txtLuong.Text.Trim() == "")
                     || (txtDiaChi.Text.Trim() == "")
                     || (txtNVID.Text.Trim() == ""))
                 {

@@ -13,7 +13,7 @@ namespace QuanLiTraSua
     
         class MY_DB
         {
-            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-20SIVOG;Initial Catalog=QLTS;Integrated Security=True");
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-DL2EM7B;Initial Catalog=QLTS;Integrated Security=True");
             public SqlConnection getConnection
             {
                 get
